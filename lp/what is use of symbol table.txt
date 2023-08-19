@@ -1,0 +1,10 @@
+what is use of symbol table ?
+
+ Symbol table information used by analysis
+and synthesis phase of compiler.
+ To verify that used identifiers have been
+declared.
+ To verify that expression and assignments
+are semantically correct. (Type Checking)
+ To generate intermediate or target code.
+(ICG)

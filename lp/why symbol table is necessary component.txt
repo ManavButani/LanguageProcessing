@@ -1,0 +1,8 @@
+why symbol table is necessary component ?
+
+A Symbol table is necessary component
+because
+◦ Declaration of identifiers appears once in a
+program.
+◦ Use of identifiers may appear in many places of the
+program

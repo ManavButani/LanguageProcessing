@@ -1,0 +1,15 @@
+Who creates symbol table ?
+
+ Identifiers and attributes are entered by the
+analysis phases when processing a
+declaration of an identi fier.
+
+ In simple languages with only global
+variables and implicit declarations:
+◦ The scanner can enter an identifier into a symbol
+table if it is not already there.
+
+ In block-structured languages with scopes
+and explicit declarations:
+◦ The parser and/or semantic analyzer enter
+identifiers and corresponding attributes.

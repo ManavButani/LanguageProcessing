@@ -1,0 +1,6 @@
+what is symbol table ?
+
+Symbol Table is compile time data structure
+that is used by compiler to hold information
+about source program constructs. (Keep the
+track of the identifiers)
